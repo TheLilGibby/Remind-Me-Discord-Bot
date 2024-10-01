@@ -2,6 +2,6 @@
 
 module.exports = {
   discord: {
-    BOT_TOKEN: ''
+    BOT_TOKEN: process.env.DISCORD_BOT_TOKEN
   }
 };
